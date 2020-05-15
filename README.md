@@ -5,7 +5,7 @@
     />
  </p>
  <h1 align="center">
-  <strong align="center">UX/UI First Steps</strong>
+  <strong align="center">Data Science First Steps</strong>
  </h1>
 
 
